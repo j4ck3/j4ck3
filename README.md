@@ -1,11 +1,9 @@
-
 <p align="center" width="300">
-  ## J4ck3 `Digital Craftsman`
-   <h3 align="center">Hello!</h3>
-    <h3 align="center">I'm a fullstack web dev.</h3>
+   <h3 align="center">J4ck3 - <small>Digital Craftsman</small></h3>
+   <h3 align="center">Hello! I'm a fullstack web dev.</h3>
 </p>
 
-<h3 align="left">Tools that I usally use.</h3>
+<h3 align="left">Tools that I normally use.</h3>
 
 <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
