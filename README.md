@@ -1,7 +1,11 @@
 
-## J4ck3 ** `Digital Craftsman`**
+<p align="center" width="300">
+  ## J4ck3 `Digital Craftsman`
+   <h3 align="center">Hello!</h3>
+    <h3 align="center">I'm a fullstack web dev.</h3>
+</p>
 
-### Tools I like to use
+### What I usally work with 
 
 <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -14,5 +18,11 @@
 <img align="left" alt="Dot-net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt="Dotnetcore" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
-<img align="left" alt="Dotnetcore" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Dotnetcore" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+<img align="left" alt="photoshop" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="ae" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+
+
+
+<p align="center" width="300">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocarrd&layout=compact&theme=tokyonight" />
+</p>
