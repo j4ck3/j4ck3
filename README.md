@@ -16,7 +16,7 @@
 
 <img align="left" alt="Dotnetcore" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Dotnetcore" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-<br /> />
+<br />
 
 
 <br />
