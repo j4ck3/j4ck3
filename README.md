@@ -1,7 +1,7 @@
 
-# J4ck3 ** `Digital Craftsman that likes to create things I will use myself.`**
+## J4ck3 ** `Digital Craftsman`**
 
-### Languages and Tools I use.
+### Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -20,6 +20,8 @@
 
 <img align="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop-plain.svgg" />
 <img align="left" alt="aftereffects" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects-plain.svg" />
+<img align="left" alt="aftereffects" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-original.svg" />
+
 
 <br />
 
