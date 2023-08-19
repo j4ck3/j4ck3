@@ -5,7 +5,7 @@
     <h3 align="center">I'm a fullstack web dev.</h3>
 </p>
 
-### What I usally work with 
+<h3 align="left">I'm a fullstack web dev.</h3>
 
 <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -23,6 +23,6 @@
 
 
 
-<p align="center" width="300">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocarrd&layout=compact&theme=tokyonight" />
+<p align="left" width="300">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ck3&layout=compact&theme=tokyonight" />
 </p>
