@@ -5,7 +5,7 @@
     <h3 align="center">I'm a fullstack web dev.</h3>
 </p>
 
-<h3 align="left">I'm a fullstack web dev.</h3>
+<h3 align="left">Tools that I usally use.</h3>
 
 <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -20,8 +20,7 @@
 
 <img align="left" alt="photoshop" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="ae" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-
-
+</br>
 
 <p align="left" width="300">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4ck3&layout=compact&theme=tokyonight" />
