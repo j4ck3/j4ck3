@@ -1,9 +1,8 @@
 <p align="center" width="300">
-   <h3 align="center">J4ck3 - <small>Digital Craftsman</small></h3>
-   <p align="center">Hello! I'm a fullstack web dev.</p>
+   <p align="center">Hello! I'm a fullstack web dev:)</p>
 </p>
 
-<h3 align="left">Tools that I normally use.</h3>
+<h3 align="left">Most used tools</h3>
 
 <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
