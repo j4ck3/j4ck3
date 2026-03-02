@@ -14,11 +14,11 @@
   <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
   <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="left" alt="Convex" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/convex/FF3412" />
-  <img align="left" alt="Stripe" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" />
+  <img align="left" alt="Stripe" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/stripe/635BFF" />
   <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="left" alt="GitLab CI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img align="left" alt="Playwright" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" />
-  <img align="left" alt="Prettier" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" />
+  <img align="left" alt="Prettier" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/prettier/F7B93E" />
 </p>
 
 <br clear="all" /><br />
