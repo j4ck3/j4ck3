@@ -1,6 +1,6 @@
 <div align="center">
   <p>Hello! I'm a fullstack web dev :)</p>
-  <p><a href="https://hjacke.com">hjacke.com</a></p>
+  <p><strong><a href="https://hjacke.com" style="font-size: 1.3em;">hjacke.com</a></strong></p>
 </div>
 
 <h3 align="left">random tech i use atm</h3>
